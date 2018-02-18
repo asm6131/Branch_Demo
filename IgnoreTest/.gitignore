@@ -1,0 +1,6 @@
+logs/*
+lib/*
+images/*
+bin/*
+*.js
+
